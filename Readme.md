@@ -7,8 +7,9 @@ Cheers!
 
 ## Requirement
 ```
-Python: 3.6 or higher.
-PyTorch 1.0 or higher.
+Python: 3.7 or higher.
+PyTorch 1.6.0 or higher.
+Tensorflow 2.5.0
 ```
 
 
