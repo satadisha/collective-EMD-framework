@@ -12,14 +12,14 @@ PyTorch 1.0 or higher.
 ```
 
 ## For BERTweet instantiated framework:
-```
+
 Execute the notebook *BERTweet_CollectiveEMD* in the folder *BERTweet_CollectiveEMD*. Instructions provided next to cells in the Notebook.
-```
+
 
 ## For Aguilar et al. instantiated framework:
-```
+
 Execute the notebook *Gaguilar_CollectiveEMD* in the folder *Aguilar_CollectiveEMD*. Instructions provided next to cells in the Notebook.
-```
+
 
 Download all data folders and saved models before running notebooks.
 
