@@ -1,6 +1,6 @@
-Download Twitter embeddings (Godin et al.) and put them in the *embeddings/twitter* folder before running
+Download Twitter embeddings (Godin et al.) from: https://drive.google.com/open?id=1lw5Hr6Xw0G0bMT1ZllrtMqEgCTrM7dzc
 
-Download Gazetteer resources (link in Aguilar et al.'s paper) and put them in the *embeddings/gazetteers* folder before running
+Put them in the *embeddings/twitter* folder before running
 
 Download data from shared drive and place them in the *data* folder. Link can be found in data folder
 
