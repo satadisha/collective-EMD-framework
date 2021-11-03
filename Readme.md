@@ -20,11 +20,11 @@ For model files and data folders please check the shared drive --> https://drive
 
 ## For BERTweet instantiated framework:
 
-Execute the notebook *BERTweet_CollectiveEMD* in the folder *BERTweet_CollectiveEMD*. Instructions provided next to cells in the Notebook. Do not run cells marked as *not reqd to run*!
+Execute the notebook *BERTweet_CollectiveEMD.ipynb* in the folder *BERTweet_CollectiveEMD*. Instructions provided next to cells in the Notebook. Do not run cells marked as *not reqd to run*!
 
 
 ## For Aguilar et al. instantiated framework:
 
-Execute the notebook *Gaguilar_CollectiveEMD* in the folder *Aguilar_CollectiveEMD*. Instructions provided next to cells in the Notebook. Do not run cells marked as *not reqd to run*!
+Execute the notebook *Gaguilar_CollectiveEMD.ipynb* in the folder *Aguilar_CollectiveEMD*. Instructions provided next to cells in the Notebook. Do not run cells marked as *not reqd to run*!
 
 ~ Satadisha
